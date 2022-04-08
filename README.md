@@ -1,2 +1,2 @@
 # multithreaded_server
-Multithreaded server in c language.
+A multithreaded server in c language.
